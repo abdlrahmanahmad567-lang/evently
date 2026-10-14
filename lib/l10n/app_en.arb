@@ -1,0 +1,19 @@
+ {
+ "startTitle" : "  Personalize Your Experience",
+ "startDesc" :" Choose your preferred theme and language to get started with a comfortable, tailored experience that suits your style.",
+ "lang" : "Language",
+ "theme" : "Theme",
+ "login" : "title LOgin",
+ "loginTitle": "Login to your account",
+   "emailHint": "Enter your email",
+   "enterEmail": "Enter Email",
+   "enterValidEmail": "Enter valid Email",
+   "passwordHint": "Enter your password",
+   "enterPassword": "Enter password",
+   "passwordTooShort": "Enter More Than 6 char",
+   "forgetPassword": "Forget Password?",
+   "login": "Login",
+  "dontHaveAccount": "Don’t have an account? ",
+  "signUp": "Signup"
+
+ }
